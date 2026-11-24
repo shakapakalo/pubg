@@ -1,0 +1,8 @@
+{
+  "STATUS": true,
+  "KEYS": {
+    "POLO-VIP-1": "2027-01-01",
+    "TEST-KEY": "lifetime",
+    "TRIAL-1DAY": "2026-11-26 23:59:59"
+  }
+}
